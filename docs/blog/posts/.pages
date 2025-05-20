@@ -1,0 +1,7 @@
+title: Blog
+collapse: true
+nav:
+  - posts/first-post.md
+  - posts/second-post.md
+  - posts/third-post.md
+  - posts/fourth-post.md
